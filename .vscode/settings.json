@@ -2,4 +2,4 @@
     "rust-analyzer.linkedProjects": [
         "./clients/cli/Cargo.toml"
     ]
-}
+}curl https://cli.nexus.xyz/ | sh
